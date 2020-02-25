@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  padding-top: 40px;
+  width: 100%;
+  width: 100vw;
+  height: 100%;
+  color : #fff;    
+  background: #3a6186; 
+  background: -webkit-linear-gradient(to left, #3a6186 , #89253e); 
+  background: linear-gradient(to left, #3a6186 , #89253e);
+}
+.mainContent{
+  padding-top: 40px;
+}
+.section-content h2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:#fcc500;
+}
+.form-line{
+  border-right: 1px solid #B29999;
+}
+.table{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+}
+.form-group{
+  margin-top: 10px;
+}
+label{
+  font-size: 1.3em;
+  line-height: 1em;
+  font-weight: normal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.form-control{
+  font-size: 1.3em;
+  color: #080808;
+}
